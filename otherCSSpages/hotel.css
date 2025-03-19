@@ -915,3 +915,92 @@ body{
   .footer-fourhone{
     font-size: 1.3em;
   }
+  @media(max-width:1318px){
+    .hero-sect{
+      width: 92%;
+    }
+    .image_remove{
+      display: none;
+    }
+    .last-div{
+      display: none;
+    }
+    .div5{
+      border-radius: 15px;
+    }
+    .btn-side{
+      display: none;
+    }
+  }
+  @media(max-width:1124px){
+    .inbetween{
+      width: 90% !important;
+      
+    }
+  }
+  @media(max-width:963px){
+    .hero-sect1{
+      top: 90px;
+      width: 90%;
+      height: 50vh;
+      flex-wrap: wrap;
+    } 
+    .toggle{
+      display: none;
+    }
+    .image_remove2{
+      display: none;
+    }
+  }
+  @media(max-width:721px) {
+    .right-side-div{
+      display: none;
+    }
+  }
+  @media(max-width:687px) {
+    .forex{
+      display: none;
+    }
+    .inbetween{
+      display: none;
+    }
+    .image_remove3{
+      display: none;
+    }
+    .flagship{
+      /* text-align: center; */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .Ridyal{
+      display: none;
+    }
+    .qr-code{
+      display: none;
+    }
+    .all{
+      display: none;
+    }
+  }
+  @media(max-width:456px){
+    .unknown{
+      display: none;
+    }
+    .hero-sect1{
+      top: 40px;
+    }
+    .Destination{
+      display: none;
+    }
+    .hero-sect1{
+      height: 60vh;
+      top: 25px;
+    }
+    .curved-plane-right{
+      display: none;
+    }
+    .fly{
+      font-size: 0.8em;
+    }
+  }
